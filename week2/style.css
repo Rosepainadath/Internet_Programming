@@ -1,0 +1,26 @@
+.myclass {
+color: Red;
+display:block;
+}
+.myclass1 {
+color: white;
+background-color: black;
+display: inline;
+}
+.myclass2 {
+color: green;
+display: block;
+}
+.myclass3 {
+color: green;
+background-color: darkred;
+display: inline;
+}
+.myclass4 {
+color: green;
+display: block;
+}
+.myclass5 {
+color: black;
+display: block;
+}

@@ -1,0 +1,15 @@
+.myclass1{
+    width: 50%;
+    height: 50%;
+    float: left;
+    background-color: royalblue;
+    border-collapse: collapse;
+}
+
+.myclass2{
+   width: 50%;
+   height: 50%;
+   float: left;
+   background-color: yellow;
+   border-collapse: collapse;
+}
