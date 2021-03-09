@@ -47,15 +47,3 @@ element.addEventListener('click', myClickEvent);
 element.style.opacity = 0.5;
 }
 document.addEventListener('DOMContentLoaded', myLoadEvent);
-function changeContent() {
-  var element = document.getElementById("circle");
-  element.firstChild.nodeValue = "hahaha";
-}
-
-function myClickCircleEvent() {
-  var element = document.getElementById("circle");
-  element.addEventListener("click", changeContent);
-}
-
-
-document.addEventListener('DOMContentLoaded', myClickCircleEvent); //myLoadEvent);
